@@ -15,6 +15,7 @@ brew bzip2
 brew c-ares
 brew composer
 brew curl
+brew eslint
 brew expat
 brew fontconfig
 brew freetds
@@ -66,6 +67,7 @@ brew mpfr
 brew ncurses
 brew nettle
 brew nghttp2
+brew node
 brew openexr
 brew openjpeg
 brew openldap
